@@ -1,4 +1,0 @@
-﻿  test demineur.cpp
-C:\Users\agodin\Documents\test demineur\test demineur.cpp(66,17): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
-C:\Users\agodin\Documents\test demineur\test demineur.cpp(97): warning C4715: 'revl' : les chemins de contrôle ne retournent pas tous une valeur
-  test demineur.vcxproj -> C:\Users\agodin\Documents\test demineur\x64\Debug\test demineur.exe
