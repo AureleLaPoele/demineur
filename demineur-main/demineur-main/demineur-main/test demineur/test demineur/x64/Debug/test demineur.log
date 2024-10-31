@@ -1,0 +1,8 @@
+﻿  test demineur.cpp
+C:\Users\aurel\Downloads\demineur-main\demineur-main\demineur-main\test demineur\test demineur.cpp(135,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Downloads\demineur-main\demineur-main\demineur-main\test demineur\test demineur.cpp(136,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Downloads\demineur-main\demineur-main\demineur-main\test demineur\test demineur.cpp(146,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Downloads\demineur-main\demineur-main\demineur-main\test demineur\test demineur.cpp(175,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Downloads\demineur-main\demineur-main\demineur-main\test demineur\test demineur.cpp(176,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\aurel\Downloads\demineur-main\demineur-main\demineur-main\test demineur\test demineur.cpp(239,1): warning C4715: 'revl': not all control paths return a value
+  test demineur.vcxproj -> C:\Users\aurel\Downloads\demineur-main\demineur-main\demineur-main\test demineur\x64\Debug\test demineur.exe
